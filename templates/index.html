@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://bootswatch.com/4/materia/bootstrap.css">
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+<div class="card-body" style="width: 400px;">
+    <form action="/subir_archivos" method="POST" enctype="multipart/form-data">
+        <input type="text" name="sd" id="" class="from-group form-control">
+        <input type="file" name="archivo" class="archi form-group form-control">
+        <input type="submit" value="subir" class="form-group btn-block">
+    </form>
+</div>
+   
+
+    
+<script>
+    var datos = '{{ data }}';
+</script>
+<script src="css/app.js"></script>
+</body>
+</html>
+  

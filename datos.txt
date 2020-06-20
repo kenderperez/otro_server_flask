@@ -1,0 +1,5 @@
+/videos/CARTA MINISTERIO DEL DEPORTE (FEDERACION) (1).docx
+/videos/ACTA CONSTITUTIVA CLUB DEPORTIVO DE FUTBOL FENIX FC 2020.docx
+/videos/Probabilidad.pdf
+/videos/Medidas de Tendencia Central.pdf
+/videos/ruleta.py
